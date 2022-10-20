@@ -7,7 +7,7 @@ The demo can be seen on the portfolio website which I uploaded on my github page
 ## Installation
 
 ```bash
-install install havigate
+npm install havigate
 ```
 
 ## Usage
