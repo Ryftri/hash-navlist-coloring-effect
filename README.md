@@ -7,7 +7,7 @@ The demo can be seen on the portfolio website which I uploaded on my github page
 ## Installation
 
 ```bash
-npm install havigate
+npm install havigates
 ```
 
 ## Usage
@@ -34,9 +34,9 @@ npm install havigate
 
 **3. Writing code in javascript.**
 ```javascript
-import Havigate from 'havigate';
+import Havigates from 'havigate';
 
-const App = new Havigate({
+const App = new Havigates({
 // can be filled with class or id
   listItem: '.item__nav',
 
