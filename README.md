@@ -34,9 +34,9 @@ npm install havigate
 
 **3. Writing code in javascript.**
 ```javascript
-import ListNavEffect from 'havigate';
+import Havigate from 'havigate';
 
-const Havigate = new ListNavEffect({
+const App = new Havigate({
 // can be filled with class or id
   listItem: '.item__nav',
 
@@ -45,5 +45,5 @@ const Havigate = new ListNavEffect({
 
 // To change the text color on the anchor tag.
   colorChange: '#0F3D3E'
-})
+});
 ```

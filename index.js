@@ -1,6 +1,6 @@
 const HashCahngeEffectInitiator = require('./hash-change-effect')
 
-class havigate {
+class Havigate {
     constructor ({ listItem, backgorundChange, colorChange }) {
         this._listItem = document.querySelectorAll(listItem)
         this._backgorundChange = backgorundChange
@@ -18,4 +18,4 @@ class havigate {
     }
 }
 
-module.exports = havigate
+module.exports = Havigate
