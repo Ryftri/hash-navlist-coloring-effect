@@ -1,0 +1,22 @@
+{
+  "name": "havigate",
+  "version": "1.0.0",
+  "description": "Havigate is a solution to make it easy to create list item and anchor navigation coloring effects in PWAs and single-page apps. By using effect logic when changing url hashes and changing without needing to write long code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryftri/hash-navlist-coloring-effect.git"
+  },
+  "keywords": [
+    "effect-coloring"
+  ],
+  "author": "ryzuf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ryftri/hash-navlist-coloring-effect/issues"
+  },
+  "homepage": "https://github.com/Ryftri/hash-navlist-coloring-effect#readme"
+}
