@@ -34,7 +34,7 @@ npm install havigates
 
 **3. Writing code in javascript.**
 ```javascript
-import Havigates from 'havigate';
+import Havigates from 'havigates';
 
 const App = new Havigates({
 // can be filled with class or id
