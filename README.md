@@ -1,4 +1,4 @@
-# Havigate
+## Havigate
 Havigate is a solution to make it easy to create list item and anchor navigation coloring effects in PWAs and single-page apps. By using effect logic when changing url hashes and changing without needing to write long code.
 
 ## Demo
