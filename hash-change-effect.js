@@ -1,4 +1,4 @@
-const UrlParse = require('./url-parsing')
+import UrlParse from './url-parsing.js'
 
 const HashCahngeEffectInitiator = {
   init ({ allLink, background, color }) {
@@ -36,4 +36,4 @@ const HashCahngeEffectInitiator = {
   }
 }
 
-module.exports = HashCahngeEffectInitiator
+export default HashCahngeEffectInitiator

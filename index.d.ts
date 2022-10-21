@@ -1,4 +1,5 @@
-import HashCahngeEffectInitiator from './hash-change-effect.js'
+declare module 'havigates' {
+    import HashCahngeEffectInitiator from './hash-change-effect.js'
 
 class Havigates {
     constructor ({ listItem, backgorundChange, colorChange }) {
@@ -19,3 +20,5 @@ class Havigates {
 }
 
 export default Havigates
+};
+

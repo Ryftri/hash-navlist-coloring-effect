@@ -26,5 +26,5 @@ const UrlParse = {
     }
 }
 
-module.exports = UrlParse
+export default UrlParse
   
