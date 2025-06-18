@@ -7,7 +7,7 @@ The demo can be seen on the portfolio website which I uploaded on my github page
 ## Installation
 
 ```bash
-npm install havigates
+npm install @ryftri/havigates
 ```
 
 ## Usage
